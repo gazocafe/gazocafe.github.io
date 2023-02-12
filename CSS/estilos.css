@@ -265,12 +265,10 @@ main{
     display: block;
     width: 80px;
     height: 80px;
-    background: #4878a9;
-    border-radius: 10px;
     text-align: center;
     line-height: 80px;
     font-size: 30px;
-    color: #fff;
+    color: #4878a9;
     transition: all 400ms ease-out;
 }
 
