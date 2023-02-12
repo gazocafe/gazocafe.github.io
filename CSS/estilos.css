@@ -159,14 +159,6 @@ main{
     letter-spacing: 5px;
 }
 
-/*MENU*/
-
-/*.imgMenu{
-    height: 250px;
-    width: 370px;
-    border-radius: 12px 12px 0 0 ;
-}*/
-
 .gallery-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -253,7 +245,6 @@ main{
     grid-row-start: span 2;
 }
 
-
 /*DESCARGA PDF*/
 
 .text-descarga h2{
@@ -289,8 +280,6 @@ main{
 }
 
 /*Media*/
-
-
 
 @media screen and (min-width:739px){
     .gallery-container{
